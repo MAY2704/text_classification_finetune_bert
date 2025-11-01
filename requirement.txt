@@ -1,0 +1,1 @@
+transformers nltk PyPDF2 pandas scikit-learn torch tqdm

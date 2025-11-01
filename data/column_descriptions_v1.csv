@@ -1,0 +1,2 @@
+dataset_name;column_name;column_data_type;description
+PYNDB_financial_data;transaction_id;int;primary key for transactions
